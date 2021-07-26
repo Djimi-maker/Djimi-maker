@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">ATTENTION</h1>
+        <p class="lead text-muted"> 
+            Polytech's Projects recommande aux investisseurs d’appliquer des règles de vigilance avant tout investissement. </br> <strong>N’investissez pas dans ce que vous ne comprenez pas.</strong></p>
+        <p>
+          <a href="#" class="btn btn-primary my-2">Nous Contacter</a>
+        </p>
+      </div>
+    </div>
+</section>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+    {% for projet in projets %}
+    <div class="col">
+        <div class="card shadow-sm">
+            <img class="card-img-top" src="{% static projet.image %}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ projet.theme }}</h5>
+                    <p class="card-text">{{ projet.description }} {{ projet.note }}</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                            <a href="{% url 'projet_detail' projet.theme %}">
+                                <button type="button" class="btn btn-sm btn-outline-secondary">Voir plus</button>
+                            </a>
+                        </div>
+                        <small class="text-muted">{{ projet.date_de_publication }}</small>
+                    </div>
+                    <p class="card-text text-center"> Initiateur : {{ projet.initiateur }}</p>
+                    <p class="card-text text-center"> Budget : {{ projet.budget }} FCFA</p>
+
+                </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

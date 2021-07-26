@@ -1,0 +1,180 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Historique ligne de commande (chronologie décroissante) :
+:x
+:set number
+:q!
+:q
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+""1	LINE	0
+	[user]
+"2	LINE	0
+	        email = moi@email.com
+"3	LINE	0
+	        name = votre_pseudo
+
+# Marques dans le fichier :
+'0  4  0  ~/.gitconfig
+'1  4  69  ~/.gitconfig
+'2  4  7  ~/.gitconfig
+'3  4  101  ~/.gitconfig
+'4  5  28  /etc/httpd/sites-available/vhost.conf
+'5  354  35  /etc/httpd/conf/httpd.conf
+'6  19  7  /etc/httpd/sites-available/vhost.conf
+'7  1  0  /etc/httpd/sites-available
+'8  2  0  /etc/httpd/sites-available/vhost.conf
+'9  23  2  /etc/httpd/sites-available/vhost.conf
+
+# Liste de sauts (le plus récent en premier) :
+-'  4  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  5  28  /etc/httpd/sites-available/vhost.conf
+-'  19  8  /etc/httpd/sites-available/vhost.conf
+-'  354  35  /etc/httpd/conf/httpd.conf
+-'  1  0  /etc/httpd/conf/httpd.conf
+-'  2  0  /etc/httpd/sites-available/vhost.conf
+-'  1  0  /etc/httpd/sites-available
+-'  23  2  /etc/httpd/sites-available/vhost.conf
+-'  1  0  /etc/httpd/sites-available/vhost.conf
+-'  11  38  /etc/httpd/conf.d/vhost.conf
+-'  1  0  /etc/httpd/conf.d/vhost.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  11  38  /etc/httpd/conf.d/vhost.conf
+-'  1  0  /etc/httpd/conf.d/vhost.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  11  38  /etc/httpd/conf.d/vhost.conf
+-'  1  0  /etc/httpd/conf.d/vhost.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  11  38  /etc/httpd/conf.d/vhost.conf
+-'  1  0  /etc/httpd/conf.d/vhost.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  11  38  /etc/httpd/conf.d/vhost.conf
+-'  1  0  /etc/httpd/conf.d/vhost.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  107  0  /etc/rsyslog.conf
+-'  91  0  /etc/rsyslog.conf
+-'  1  0  /etc/rsyslog.conf
+-'  22  0  /etc/httpd/conf.d/welcome.conf
+-'  1  0  /etc/httpd/conf.d/welcome.conf
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.gitconfig
+	"	4	0
+	^	4	0
+	.	5	0
+	+	4	228
+	+	4	101
+	+	4	7
+	+	4	37
+	+	4	69
+	+	4	124
+	+	4	154
+	+	4	186
+	+	4	200
+	+	5	0
+
+> /etc/httpd/sites-available/vhost.conf
+	"	5	28
+	^	5	29
+	.	5	28
+	+	5	28
+
+> /etc/httpd/conf/httpd.conf
+	"	354	35
+
+> /etc/httpd/conf.d/vhost.conf
+	"	11	38
+	^	11	39
+	.	11	37
+	+	11	37
+
+> /etc/httpd/conf.d/welcome.conf
+	"	22	0
+
+> /etc/rsyslog.conf
+	"	107	0
+	^	107	0
+	.	106	3
+	+	91	35
+	+	106	3

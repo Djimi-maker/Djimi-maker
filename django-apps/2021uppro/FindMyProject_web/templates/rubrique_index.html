@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<div class="row">
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+{% for rubrique in rubriques %}
+    <div class="col-md-4">
+        <div class="card mb-2">
+            <img class="card-img-top" src="{% static rubrique.image %}">
+            <div class="card-body">
+                <h5 class="card-title">{{ rubrique.nom }}</h5>
+                <p class="card-text">{{ rubrique.description }}</p>
+                <a href="{% url 'rubrique_detail' rubrique.nom %}"
+                   class="btn btn-primary">
+                    Voir les projets
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
